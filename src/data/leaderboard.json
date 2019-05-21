@@ -1,0 +1,7 @@
+[
+  { "name": "玩家一", "score": 10 },
+  { "name": "玩家二", "score": 40 },
+  { "name": "玩家三", "score": 50 },
+  { "name": "", "score": 0 },
+  { "name": "玩家四", "score": 30 }
+]

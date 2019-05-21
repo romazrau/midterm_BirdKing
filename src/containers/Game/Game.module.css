@@ -1,0 +1,38 @@
+.img{
+  max-height: 50vh;
+  max-width: 100vw;
+}
+
+.div_header{
+  font-size: 8vh;
+  margin-top: 1vh;
+  margin-bottom: 2vh; 
+}
+
+.div_text{
+  font-size: 6vh;
+}
+
+.div_ctrl{
+  display:flex;
+  flex-direction:row;
+  flex-wrap:nowrap;
+  justify-content:space-around;
+  align-items:center;
+}
+
+.player{
+  border-width: 2px;
+  border-color: aqua;
+  border-style: solid;
+  max-width: 45vw;
+  height: 25vh; 
+
+}
+
+
+
+.btnArea{
+  border: null;
+}
+
