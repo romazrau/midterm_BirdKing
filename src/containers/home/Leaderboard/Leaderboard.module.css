@@ -10,7 +10,9 @@
 
 .App_link:hover {
   color: #d7f6ff;
-  font-size: calc(10px + 3vmin);
+  /* font-size: calc(10px + 3vmin); */
+  display: inline-block;
+  transform: scale(1.2);
 }
 
 @keyframes App-logo-spin {
